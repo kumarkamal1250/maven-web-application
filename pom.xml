@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Test Nexus Snapshot Nexus Repository </name>
-	      <url>http://13.235.87.131:8081/repository/Test-Nexus/</url>
+	      <url>http://13.235.87.131:8081/repository/Test-Nexus-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
